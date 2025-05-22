@@ -3,7 +3,7 @@ Rainbow
 Violet
 Indigo
 Blue
-Green
+Purple
 Yellow
 Orange
 Red
